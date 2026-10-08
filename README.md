@@ -1,2 +1,2 @@
-# magiccustomshouse.github.io
+# Magiccustomshouse.github.io
 Web Page
